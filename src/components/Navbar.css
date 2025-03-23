@@ -1,0 +1,93 @@
+  .tag{
+    color: #FF008C;
+    text-decoration: none;
+  }
+  .tag:hover{
+    background: linear-gradient(to right, #ff008c 0%, #ff6357 100%);
+  
+  color: white;
+  }
+  .bg{
+    background-image: url(https://themewagon.github.io/seogo/img/banner/study_banner.png);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+  }
+
+
+  .hh:hover{
+    color: #FF008C;;
+  }
+  .owl{
+    
+
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+    background: rgb(51, 74, 96);
+    margin: 0px 2px;
+
+    border-radius: 50%;
+  }
+  .bagg{
+    background-image: url(https://themewagon.github.io/seogo/img/banner/banner_testmonial.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+  }
+  .tag2{
+    background: linear-gradient(to right, #ff008c 0%, #ff6357 100%);
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  .fff{
+    background-color: #001D38;
+    background-size: cover;
+  }
+  .dd{
+    color: #FF008C;
+
+  }
+  .pp{
+    color: #919191;
+  }
+
+ul li {
+  list-style: none;
+margin-left: -35px;
+}
+
+.tr{
+  color: #919191;
+  text-decoration: none;
+}
+.tr:hover{
+  color: #FF008C;
+}
+.vc{
+  background-color: #001D38;
+  color: #919191;
+}
+.ew{
+  background-color: #ff6357;
+  margin-left: -80px;
+
+
+}
+.btnn{
+  color: #ff6357;
+  text-decoration: none;
+  border: 1px solid #FF008C;
+}
+.btnn:hover{
+  color: white;
+  background-color: #ff6357;
+}
+.imggg {
+  object-fit: cover;
+  transition: 1s ease;
+}
+.imggg:hover {
+  transform: scale(1.1);
+}
